@@ -21,6 +21,7 @@
     justify-content: space-between;
     align-items: center;
     position: relative;
+    list-style-type: none;
 }
 
 .container {
@@ -74,6 +75,7 @@
 
 .opções {
     display: none;
+    list-style-type: none;
 }
 
 .container__texto {

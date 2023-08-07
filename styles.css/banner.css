@@ -2,7 +2,7 @@
     background: var(--azul-degrade);
     color: var(--branco);
     text-align: center;
-    padding: 1em;
+    padding: 0.1em;
 }
 
 .banner__titulo {
