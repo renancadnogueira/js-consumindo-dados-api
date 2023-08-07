@@ -37,6 +37,7 @@
     position: absolute;
     top: 100%;
     width: 60vw;
+    list-style-type: none;
 }
 
 .container__botao:checked~.lista-menu {
@@ -52,6 +53,7 @@
 .lista-menu__titulo {
     color: var(--laranja);
     font-weight: 700;
+    list-style-type: none;
 }
 
 .lista-menu__link {
