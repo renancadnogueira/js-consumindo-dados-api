@@ -33,4 +33,5 @@ cep.addEventListener("focusout", () => buscaEndereco(cep.value)); //Evento Ouvin
 // let ceps = ['01001000', '01001001'];
 // let conjuntoCeps = ceps.map(valores => buscaEndereco(valores));
 // console.log(conjuntoCeps);
-// Promise.all(conjuntoCeps).then(respostas => console.log(respostas)); 
+// Promise.all(conjuntoCeps).then(respostas => console.log(respostas));
+// https://js-consumindo-dados-api-five.vercel.app/ 
